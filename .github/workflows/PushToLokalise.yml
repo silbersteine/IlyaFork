@@ -24,6 +24,7 @@ jobs:
             i18n
           file_format: test
           file_ext: test
+          rambo_mode: true
           additional_params: >
             {
               "convert_placeholders": true,

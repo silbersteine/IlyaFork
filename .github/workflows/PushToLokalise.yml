@@ -33,7 +33,6 @@ jobs:
           rambo_mode: true
           skip_tagging: false
           use_tag_tracking: true
-          name_pattern: "en/**/custom_*.json"
           # upload_timeout: 1
           # name_pattern: "custom_file.json"
 

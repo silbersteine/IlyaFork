@@ -28,6 +28,7 @@ jobs:
             {
               "convert_placeholders": false,
               "hidden_from_contributors": false
+              "distinguish_by_file": true
             }
           # flat_naming: true
           rambo_mode: true

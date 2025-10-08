@@ -1,3 +1,4 @@
 {
-  "nested": "Hello from nested with spaces (go 2)"
+  "nested": "Hello from nested with spaces (go 2)",
+  "test": "Test"
 }

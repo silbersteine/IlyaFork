@@ -26,8 +26,8 @@ jobs:
           file_ext: json
           additional_params: >
             {
-              "convert_placeholders": true,
-              "hidden_from_contributors": true
+              "convert_placeholders": false,
+              "hidden_from_contributors": false
             }
           # flat_naming: true
           rambo_mode: true

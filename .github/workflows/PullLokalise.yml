@@ -40,7 +40,7 @@ jobs:
           # pr_draft: true
           # pr_assignees: bodrovis
           # async_mode: true
-          skip_include_tags: true
+          skip_include_tags: false
           # additional_params: ""
           # additional_params: >
           #   {

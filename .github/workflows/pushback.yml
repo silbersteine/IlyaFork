@@ -1,13 +1,14 @@
 name: Back: Push Translations to Lokalise
+
 on:
   workflow_dispatch:
 
 jobs:
   push-translations:
-    runs-on: rnd-2c-8gb
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
+        uses: actions/checkout@@v4.3.0
         with:
           fetch-depth: 0
 
@@ -22,6 +23,4 @@ jobs:
           flat_naming: true
           name_pattern: 'messages.xlf'
           rambo_mode: true
-          additional_params: >
-            {
-            }
+          additional_params: '{}'

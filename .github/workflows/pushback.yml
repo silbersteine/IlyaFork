@@ -1,4 +1,4 @@
-name: Back: Push Translations to Lokalise
+name: Back Push Translations to Lokalise
 on:
   workflow_dispatch:
 

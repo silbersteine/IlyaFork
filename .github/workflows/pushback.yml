@@ -1,0 +1,27 @@
+name: Back: Push Translations to Lokalise
+on:
+  workflow_dispatch:
+
+jobs:
+  push-translations:
+    runs-on: rnd-2c-8gb
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
+        with:
+          fetch-depth: 0
+
+      - name: Push translations to Lokalise
+        uses: lokalise/lokalise-push-action@v4.0.1
+        with:
+          api_token: ${{ secrets.LOKALISE__API_TOKEN }}
+          project_id: 728044426499ab4e96ee46.18204254
+          base_lang: en
+          translations_path: apps/Appname/src/locale
+          file_format: xlf
+          flat_naming: true
+          name_pattern: 'messages.xlf'
+          rambo_mode: true
+          additional_params: >
+            {
+            }

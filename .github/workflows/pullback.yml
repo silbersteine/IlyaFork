@@ -22,6 +22,7 @@ jobs:
           translations_path: |
             apps/Appname/src/locale
           file_format: xlf
+          file_ext: xlf
           skip_include_tags: true
           additional_params: >
             {

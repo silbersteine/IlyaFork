@@ -15,7 +15,7 @@ jobs:
       - name: Push translations to Lokalise
         uses: lokalise/lokalise-push-action@v4.0.1
         with:
-          api_token: ${{ secrets.LOKALISE__API_TOKEN }}
+          api_token: ${{ secrets.LOKALISE_API_TOKEN }}
           project_id: 728044426499ab4e96ee46.18204254
           base_lang: en
           translations_path: apps/Appname/src/locale

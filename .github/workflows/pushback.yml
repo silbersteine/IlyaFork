@@ -22,6 +22,5 @@ jobs:
           file_format: xlf
           flat_naming: true
           name_pattern: 'messages.xlf'
-          translation_path: |
-            apps/Appname/src/locale
+          translation_path: apps/Appname/src/locale
           rambo_mode: true

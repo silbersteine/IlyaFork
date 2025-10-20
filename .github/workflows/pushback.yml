@@ -13,15 +13,15 @@ jobs:
           fetch-depth: 0
 
       - name: Push translations to Lokalise
-        uses: lokalise/lokalise-push-action@v4.1.0
+        uses: lokalise/lokalise-push-action@v3.8.1
         with:
           api_token: ${{ secrets.LOKALISE_API_TOKEN }}
           project_id: 728044426499ab4e96ee46.18204254
           base_lang: en
           file_ext: xlf
+          file_format: xlf
           flat_naming: true
           name_pattern: 'messages.xlf'
           translation_path: |
             apps/Appname/src/locale
           rambo_mode: true
-          additional_params: '{}'

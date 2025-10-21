@@ -25,11 +25,7 @@ jobs:
           skip_include_tags: true
           additional_params: >
             {
+              "filter_filenames": ["apps/Appname/src/locale/messages.xlf"],
               "original_filenames": false,
               "bundle_structure": "messages.%LANG_ISO%.xlf"
             }
-
-      - name: Echo downloaded file names
-        run: |
-          echo "Downloaded files:"
-          find apps/Appname/src/locale -type f -name "*.xlf" -print

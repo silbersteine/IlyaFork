@@ -23,6 +23,7 @@ jobs:
           file_format: xlf
           file_ext: xlf
           skip_include_tags: true
+          flat_naming: true
           additional_params: >
             {
               "original_filenames": false,

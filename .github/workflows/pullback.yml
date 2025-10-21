@@ -27,5 +27,5 @@ jobs:
           additional_params: >
             {
               "original_filenames": false,
-              "bundle_structure": "messages.%LANG_ISO%.xlf"
+              "bundle_structure": "apps/Appname/src/locale/messages.%LANG_ISO%.xlf"
             }

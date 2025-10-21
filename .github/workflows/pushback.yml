@@ -23,3 +23,9 @@ jobs:
           flat_naming: true
           name_pattern: 'messages.xlf'
           rambo_mode: true
+          additional_params: >
+            {
+              "filename": "messages.%LANG_ISO%.xlf"
+            }
+          
+

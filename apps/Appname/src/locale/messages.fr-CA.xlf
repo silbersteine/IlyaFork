@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+	<file original="" datatype="plaintext" xml:space="preserve" source-language="en" target-language="fr-CA">
+		<header>
+			<tool tool-id="lokalise.com" tool-name="Lokalise"></tool>
+		</header>
+		<body>
+			<trans-unit id="Group_843.Log_In">
+				<source>Log In</source>
+				<target>Se connecter</target>
+			</trans-unit>
+			<trans-unit id="Group_843.Sign_Up">
+				<source>Sign Up</source>
+				<target>S'inscrire</target>
+			</trans-unit>
+			<trans-unit id="TEst2">
+				<source>Test 2</source>
+				<target>Test 2</target>
+			</trans-unit>
+			<trans-unit id="Test2">
+				<source>Test2</source>
+				<target>Test2</target>
+			</trans-unit>
+			<trans-unit id="customsuper">
+				<source>nested 4</source>
+				<target>imbriqué 4</target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanForm.UnitId">
+				<source>Unit ID</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanForm.UnitName">
+				<source>Unit Name</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanWorkbench.ActionPlanId">
+				<source>Action Plan ID</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanWorkbench.ActionPlanTaskId">
+				<source>Task ID</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanWorkbench.ActionPlanTasksExcelTasksLabel">
+				<source>Excel - Tasks</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ActionPlanWorkbench.ActionPlansExportExcelLabel">
+				<source>Excel - Action Plans</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Alerts.DaysToNextState">
+				<source>goes to next state in {days} {days, plural, one {day} other {days}}</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Athena.Athena">
+				<source>Medallia AI</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Athena.AthenaControlsLabel">
+				<source>Action Intelligence Categories</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Athena.Category">
+				<source>Medallia AI Category</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Athena.PoweredByAthena">
+				<source>Powered by Medallia AI.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.AthenaSummarization.AthenaIcon">
+				<source>Medallia AI Icon</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.InsightsWorkbench.InsightsWorkbench">
+				<source>Insights Workbench</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.AthenaLinkToReportHelp">
+				<source>Determines which page in the application the end user is routed to when they click on a Action Intelligence metric.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.AthenaMetricsHelp">
+				<source>Choose the Action Intelligence metrics to display. The metrics will be displayed in the order they were selected.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.AthenaTagsToDisplay">
+				<source>Action Intelligence Tags to Display</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.DisableOnDemandTASummary">
+				<source>Disable Intelligent Summaries for text analytics (if enabled at the Role level)</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.ModuleAthenaSummary">
+				<source>Action Intelligence Summary</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.ModuleAthenaSummaryDesc">
+				<source>Displays summarized statistics for the records shown in a dashboard, using Action Intelligence populated fields. For instance, it can show the number of records with Attention Flag set, or the number of records where Effort is Very High, or the the number of records that contain Suggested Actions.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.RequiresAthenaHelp">
+				<source>This feature will only work if Action Intelligence has been enabled for your given instance.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.ModuleSchema.TAVolumeDistributionCombineNegativeSentimentsHelp">
+				<source>Determines whether Negative and Strongly Negative sentiments are combined in reporting. This is only applicable if Distribution Type is set to Sentiment.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Responses.SmartResponseDisabledLanguage">
+				<source>Smart Response is unavailable because the original feedback is in a language we currently don't support.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Responses.SocialTemplateLabel">
+				<source>Social Template</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Responses.SocialTemplates">
+				<source>Social Templates</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.RootCauseAssist.GeneratingAnswer">
+				<source>Generating an answer...</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.RootCauseAssist.RetrievingData">
+				<source>Retrieving data...</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.RspInv.OverdueSoon">
+				<source>goes to next state in &lt; 1 hour</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.Subscriptions.DeleteAssociatedAlertsConfirm">
+				<source>Are you sure you want to delete this subscription? Warning, this subscription is linked to other notifications on the same scorecard, deleting one will delete all of them</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.EffectSizeCoOccurrenceHelpText">
+				<source>Effect Size tells you how meaningful the change in mentions is between two time periods. For Co-occurrence results, it measures the practical significance of the change in how often a specific Topic and Theme appear together, helping you identify whether observed changes are likely to be impactful.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.ImpactOnNetSentimentCoOccurrenceHelpText">
+				<source>The Impact on Net Sentiment score tells you how much a co-occurrence result increased or decreased overall Net Sentiment. It takes into account volume as well as Net Sentiment. Use it as a prioritization tool to help understand the relative ranking of the co-occurrence result.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.ImpactScoreCoOccurrenceHelpText">
+				<source>The Impact Score tells you how much a co-occurrence result increased or decreased your overall score. It takes into account volume as well as score. Use it as a prioritization tool to help understand the relative ranking of the co-occurrence result.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactOnNetSentiment">
+				<source>The Impact on Net Sentiment score tells you how much that topic or theme increased or decreased overall Net Sentiment. It takes into account the topic or theme’s volume as well as its Net Sentiment. Use it as a prioritization tool to help understand the relative ranking of a topic/theme against other topics/themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactOnNetSentimentCoOccurrence">
+				<source>The Impact on Net Sentiment score tells you how much the co-occurrence result increased or decreased overall Net Sentiment. It takes into account the topic or theme's volume as well as its Net Sentiment. Use it as a prioritization tool to help understand the relative ranking of the co-occurring topics/themes result against other results.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactScore">
+				<source>The Impact score tells you how much that topic or theme increased or decreased your overall score. It takes into account the topic or theme’s volume as well as its score. Use it as a prioritization tool to help understand the relative ranking of a topic or theme against other topics/themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactScoreCoOccurrence">
+				<source>The Impact Score tells you how much a co-occurrence result increased or decreased your overall score. It takes into account volume as well as score. Use it as a prioritization tool to help understand the relative ranking of the co-occurrence result.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactScoreScaled">
+				<source>The Impact score (scaled) tells you how much that topic or theme increased or decreased your overall score, multiplied by 100. It takes into account the topic or theme's volume as well as its score. Use it as a prioritization tool to help understand the relative ranking of a topic or theme against other topics/themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionImpactScoreScaledCoOccurrence">
+				<source>The Impact score (scaled) tells you how much a co-occurring topics/themes result increased or decreased your overall score, multiplied by 100. It takes into account volume as well as score. Use it as a prioritization tool to help understand the relative ranking of the co-occurring topics/themes result against other results.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionNetSentiment">
+				<source>% Positive sentiment minus % Negative sentiment for records tagged to a topic or theme. Use this metric to better understand customer sentiment about a particular topic or theme.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionNetSentimentCoOccurrence">
+				<source>% Positive sentiment minus % Negative sentiment for records tagged to co-occurrence results. Use this metric to better understand customer sentiment about co-occurring topics or themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionResponsesCount">
+				<source>The “# of Responses” counts the total number of filtered records tagged to the topic or theme result. This is helpful to understand the total size of a topic/theme relative to other topics/themes within a filtered data set.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionResponsesCountCoOccurrence">
+				<source>The “# of Responses” counts the total number of filtered records tagged to the topic/theme and the co-occurring topics/themes result. This is helpful to understand the total size of this result relative to other co-occurring topics/themes within a filtered data set.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionResponsesPercentageCoOccurrence">
+				<source>The percentage of filtered records tagged to the Co-occurrence result compared to the total number of filtered records. This is helpful to understand the relative proportion of co-occurring tagged records.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentNegativeCount">
+				<source>The number of records tagged to a topic or theme containing Negative or Strongly Negative sentiment. Sentiment is identified at the phrase-level; while a topic or theme may be mentioned multiple times with negative sentiment in the same record, the record will only count towards this metric once. This is helpful to understand negative customer sentiment when mentioning this topic/theme.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentNegativeCountCoOccurrence">
+				<source>The number of records tagged to co-occurrence results containing Negative or Strongly Negative sentiment. Sentiment is identified at the phrase-level; while a topic/theme may be mentioned multiple times with negative sentiment in the same record, the record will only count towards this metric once. This is helpful to understand negative customer sentiment are when mentioning this co-occurrence result.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentNegativePercentage">
+				<source>The percentage of records tagged to a topic or theme containing Negative or Strongly Negative sentiment. This is helpful to understand the relative proportion of customers unfavorably mentioning this topic/theme.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentNegativePercentageCoOccurrence">
+				<source>The percentage of filtered records tagged with the co-occurrence result mentioned in phrases with negative sentiment compared to the total number of filtered records tagged with the co-occurrence result. This is helpful to understand the relative proportion of customers unfavorably mentioning these co-occurring topics/themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentPositiveCount">
+				<source>The number of records tagged to a topic or theme containing Positive or Strongly Positive sentiment. Sentiment is identified at the phrase-level; while a topic/theme may be mentioned multiple times with positive sentiment in the same record, the record will only count towards this metric once. This is helpful to understand positive customer sentiment when mentioning this topic/theme.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentPositiveCountCoOccurrence">
+				<source>The number of records tagged to co-occurrence results containing Positive or Strongly Positive sentiment. Sentiment is identified at the phrase-level; while a topic/theme may be mentioned multiple times with positive sentiment in the same record, the record will only count towards this metric once. This is helpful to understand positive customer sentiment when mentioning this co-occurrence result.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentPositivePercentage">
+				<source>The percentage of records tagged to a topic or theme containing Positive or Strongly Positive sentiment. This is helpful to understand the relative proportion of customers favorably mentioning this topic/theme.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.MetricDescriptionSentimentPositivePercentageCoOccurrence">
+				<source>The percentage of filtered records tagged with the Co-occurrence result mentioned in phrases with positive sentiment compared to the total number of filtered records tagged with the Co-occurrence result. This is helpful to understand the relative proportion of customers favorably mentioning these co-occurring topics/themes.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.PointChangeCoOccurrenceHelpText">
+				<source>Point Change measures the absolute difference in percentage between two time periods. When applied to a Co-occurrence result, it shows how much the percentage of records or phrases mentioning both the selected Topic and Theme has increased or decreased over time.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.SensitiveDataProcessingMissingContent">
+				<source>We are currently processing some sensitive data. Content will be visible after it is done.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.VolumeChangeCountCoOccurrenceHelpText">
+				<source>This represents the change in the number of records tagged to the co-occurrence result, as compared to a previous benchmark time period. Use this to track how it's trending over time.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TA.VolumeRatioCoOccurrenceHelpText">
+				<source>This represents the change in the percentage of records tagged to the co-occurrence result, as compared to a previous benchmark time period. Use this to track how it's trending over time.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TAAthenaSummary.FeedbackDetail">
+				<source>We'd love to hear your thoughts! Your feedback is incredibly valuable to us as we work to improve Intelligent Summaries for text analytics. By taking just one minute to provide your feedback, you'll be helping us enhance your experience and ensure we're delivering even more value to you.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TAAthenaSummary.TraceabilitySummaryLabel">
+				<source>Intelligent Summary</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TAExplorer.NoSubTopicResults">
+				<source>No results found within {name, select, false {&lt;placeholder&gt;&lt;/placeholder&gt;} other {"{name}"}}</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="es::tag.NGR.TAExplorer.ParentSearchHintText">
+				<source>Search within selected {isTopic, select, true {topic} other {theme}}</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="greeting">
+				<source>Hello from hub10!!!!! spaces (go 2)</source>
+				<target>Bonjour de hub10 !!!!! espaces (aller 2)</target>
+			</trans-unit>
+			<trans-unit id="hi">
+				<source>hi! pull :) go9 base</source>
+				<target>salut ! tire :) base go9</target>
+			</trans-unit>
+			<trans-unit id="key1">
+				<source>Hello  Lokalise!!!! This key is from actions/config/locales//en/en.json Modification</source>
+				<target>Bonjour Lokalise ! Cette clé provient de la modification actions/config/locales//en/en.json</target>
+			</trans-unit>
+			<trans-unit id="key1">
+				<source>Hello Lokal ise !! This key is from locales/en/translation.json this is for you   !</source>
+				<target>Bonjour Lokal Ise ! Cette clé provient de locales/en/translation.json, elle est pour vous !</target>
+			</trans-unit>
+			<trans-unit id="key2">
+				<source>GitHub  Actions are not too bad Modification</source>
+				<target>Les actions GitHub ne sont pas trop mauvaises Modification</target>
+			</trans-unit>
+			<trans-unit id="key3">
+				<source>GitHub  Actions are awesome!!! Modification</source>
+				<target>Les actions GitHub sont géniales ! Modification</target>
+			</trans-unit>
+			<trans-unit id="key4">
+				<source>Fourth key</source>
+				<target>Quatrième clé</target>
+			</trans-unit>
+			<trans-unit id="key5">
+				<source>fifth key and its useless</source>
+				<target>cinquième clé et son inutile</target>
+			</trans-unit>
+			<trans-unit id="key6">
+				<source>Six is better than 5</source>
+				<target>Six vaut mieux que cinq</target>
+			</trans-unit>
+			<trans-unit id="livekey">
+				<source>hello world</source>
+				<target>Bonjour le monde</target>
+			</trans-unit>
+			<trans-unit id="locales_dir">
+				<source>custom!6</source>
+				<target>personnalisé!6</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.button_log_in">
+				<source>Log In</source>
+				<target>Se connecter</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.button_log_in_google">
+				<source>Log In with Google</source>
+				<target>Connectez-vous avec Google</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.footer_SSO">
+				<source>Log in with SSO</source>
+				<target>Connectez-vous avec SSO</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.footer_forgot_password">
+				<source>Forgot password? </source>
+				<target>Mot de passe oublié? </target>
+			</trans-unit>
+			<trans-unit id="log_in_page.header_log_in">
+				<source>Log In</source>
+				<target>Se connecter</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.input_label_password">
+				<source>Password</source>
+				<target>Mot de passe</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.input_label_username">
+				<source>Username</source>
+				<target>Nom d'utilisateur</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.input_username">
+				<source>{{0}}</source>
+				<target>{{0}}</target>
+			</trans-unit>
+			<trans-unit id="log_in_page.placeholder_•••••••••••••">
+				<source>•••••••••••••</source>
+				<target>•••••••••••••</target>
+			</trans-unit>
+			<trans-unit id="meet_lokalise.Meet_Lokalise">
+				<source>Get to Know Lokalise</source>
+				<target>Apprenez à connaître Lokalise</target>
+			</trans-unit>
+			<trans-unit id="meet_lokalise.Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their">
+				<source>We aim to simplify the localization process by offering tools that automate, integrate, and enhance the management of your translations. Lokalise serves as an improved method for businesses focused on growth to broaden their mobile apps, games, software, or digital content into various languages.</source>
+				<target>Notre objectif est de simplifier le processus de localisation en proposant des outils qui automatisent, intègrent et optimisent la gestion de vos traductions. Lokalise offre aux entreprises en croissance une méthode optimisée pour étendre la diffusion de leurs applications mobiles, jeux, logiciels ou contenus numériques dans plusieurs langues.</target>
+			</trans-unit>
+			<trans-unit id="nest">
+				<source>custom file 11</source>
+				<target>fichier personnalisé 11</target>
+			</trans-unit>
+			<trans-unit id="nested">
+				<source>Hello from nested with spaces (go 2)</source>
+				<target>Bonjour de imbriqué avec des espaces (aller 2)</target>
+			</trans-unit>
+			<trans-unit id="newkey">
+				<source>newkey</source>
+				<target>nouvelle clé</target>
+			</trans-unit>
+			<trans-unit id="next">
+				<source>Next</source>
+				<target>Suivant</target>
+			</trans-unit>
+			<trans-unit id="night">
+				<source>Good night! :) go 9</source>
+				<target>Bonne nuit ! :) go 9</target>
+			</trans-unit>
+			<trans-unit id="pull">
+				<source>Pull!!!!! base12</source>
+				<target>Tirez !!!!! base12</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.button_sign_up">
+				<source>Sign Up</source>
+				<target>S'inscrire</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.button_sign_up_google">
+				<source>Sign Up with Google</source>
+				<target>Inscrivez-vous avec Google</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.disclaimer_privacy_policy">
+				<source>By signing up, you accept our Terms of Service and Privacy Policy.</source>
+				<target>En vous inscrivant, vous acceptez nos conditions d'utilisation et notre politique de confidentialité.</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.email_placeholder">
+				<source>{{0}}</source>
+				<target>{{0}}</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.footer_log_in_existing_accout">
+				<source>Log in to an existing team's account now</source>
+				<target>Connectez-vous maintenant au compte d'une équipe existante</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.heading_sign_Up">
+				<source>Sign Up!</source>
+				<target>S'inscrire!</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.input_label_E-mail">
+				<source>E-mail</source>
+				<target>E-mail</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.input_label_full_name">
+				<source>Full name</source>
+				<target>Nom et prénom</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.input_label_password">
+				<source>Password</source>
+				<target>Mot de passe</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.placeholder_full_name">
+				<source>{{0}}</source>
+				<target>{{0}}</target>
+			</trans-unit>
+			<trans-unit id="sign_up_page.text_sign_up_email">
+				<source>Or sign up with your email </source>
+				<target>Ou inscrivez-vous avec votre email </target>
+			</trans-unit>
+			<trans-unit id="tagtest">
+				<source>testasdfasdf and update</source>
+				<target>testasdfasdf et mise à jour</target>
+			</trans-unit>
+			<trans-unit id="test">
+				<source>Test</source>
+				<target>Test</target>
+			</trans-unit>
+			<trans-unit id="test">
+				<source>Test</source>
+				<target>Test</target>
+			</trans-unit>
+			<trans-unit id="test">
+				<source>test</source>
+				<target>test</target>
+			</trans-unit>
+			<trans-unit id="welcome">
+				<source>Welcome, {username}!!!! Demo from 0.1.0!!!!! go base </source>
+				<target>Bienvenue, {username}!!!! Démo de 0.1.0 !!!!! go base </target>
+			</trans-unit>
+			<trans-unit id="yes">
+				<source>Yes. Flat - false</source>
+				<target>Oui. Plat - faux</target>
+			</trans-unit>
+		</body>
+	</file>
+	<file original="example" datatype="plaintext" xml:space="preserve" source-language="en" target-language="fr-CA">
+		<header>
+			<tool tool-id="lokalise.com" tool-name="Lokalise"></tool>
+		</header>
+		<body>
+			<trans-unit id="1" datatype="plaintext">
+				<source>Hello, world!</source>
+				<target>Bonjour le monde!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
